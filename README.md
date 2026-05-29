@@ -18,7 +18,7 @@ Developer and tinkerer. I run **[SkyFrameSMP](https://skyframesmp.dev)** - a Min
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Trainboy15&theme=react&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Trainboy15&theme=react&hide_border=true)
 
 ![Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Trainboy15&hide_border=true&layout=compact&langs_count=5&theme=react)
 
